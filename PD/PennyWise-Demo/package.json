@@ -1,0 +1,17 @@
+{
+  "name": "pennywise",
+  "version": "1.0.0",
+  "description": "PennyWise - Intelligent Financial Management App",
+  "scripts": {
+    "dev": "cd app-code && npm run dev",
+    "build": "cd app-code && npm run build",
+    "start": "cd app-code && npm run start",
+    "install-deps": "cd app-code && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lochandwiraj/pennywise.git"
+  },
+  "author": "Lochan Dwiraj",
+  "license": "MIT"
+}
